@@ -1,4 +1,5 @@
-### Hi there 👋
+![fkubota's github stats](https://github-readme-stats.vercel.app/api?username=yseeker&count_private=true&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yseeker&theme=nord)
 
 <!--
 **yseeker/yseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
